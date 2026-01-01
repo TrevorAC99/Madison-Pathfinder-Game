@@ -1,4 +1,3 @@
 # madison-pathfinder-campaign
 
-
-readme test stuff
+Markdown for Github Pages site

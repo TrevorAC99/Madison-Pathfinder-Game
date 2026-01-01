@@ -1,5 +1,5 @@
-# Title Test
+# Home
 
-This is a test
+[Playable Ancestries](./ancestries)
 
-[Ancestries](./ancestries)
+[World Details](./world)
