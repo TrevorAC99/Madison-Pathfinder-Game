@@ -1,2 +1,2 @@
 # World Details
-- [Gods](./gods)
+- [Gods](./world/gods)
