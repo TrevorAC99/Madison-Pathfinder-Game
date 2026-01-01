@@ -6,6 +6,7 @@ If you want a character who is hardy, fearsome, and excels at feats of physical 
 ## You might...
 - Eagerly meet any chance to prove your strength in a physical contest.
 - View dying in glorious combat as preferable to a mundane death from old age or illness.
+
 ## Others probably...
 - See you as violent or lacking in discipline.
 - Admire your forthrightness and blunt honesty.
@@ -31,6 +32,7 @@ Most orc communities—known as holds—define themselves through two things: pa
 - Thurk
 - Uirch
 - Unach
+
 ## Beliefs (TODO)
 A common orc saying is “you are the scars that shape you.” Violent, chaotic lives in violent, chaotic lands mean that most orcs tend to expect and accept violence. Lamashtu, and Rovagug are commonly worshiped among more war-minded orc communities, while less violent holds worship gods like Sarenrae, whose tenets of fire, redemption, and glory all hold some appeal to orc sensibilities.
 
@@ -40,6 +42,7 @@ While there are orc deities, their worship is surprisingly uncommon among orcs. 
 - become even stronger
 - share knowledge you won through pain
 - destroy the undead
+
 **Popular Anathema**
 - accept defeat without proof of strength
 - reshape or reanimate a creature into something lesser

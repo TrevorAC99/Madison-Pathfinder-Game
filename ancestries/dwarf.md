@@ -6,13 +6,16 @@ If you want to play a character who is as hard as nails, a stubborn and unrelent
 ## You might...
 - Strive to uphold your personal honor and refuse to back down
 - Appreciate quality craftsmanship in all forms and insist upon it for all your gear.
+
 ## Others probably...
 - See you as stubborn, though whether this is an asset or a detriment changes from moment to moment.
 - Recognize the deep connection you have with your family, heritage, and friends.
+
 ## Physical Description
 Dwarves are short and stocky, standing about a foot shorter than most humans. They have wide, compact bodies and burly frames. Dwarves of all genders pride themselves on the length of their hair and beards, which they often braid into intricate patterns, some of which represent specific clans. A long beard is a sign of maturity and honor among many dwarf clans.
 
 Dwarves typically reach physical adulthood around the age of 25, though their traditionalist culture places more value on completing coming-of-age ceremonies unique to each clan than reaching a certain age. A typical dwarf can live to around 350 years old.
+
 ## Society
 Though the ancient dwarven empire fell long ago, overwhelmed by orc and goblinoid enemies, dwarves today retain many of the qualities that once propelled them to greatness: fierceness, gumption, and stubbornness in their endeavors. Dwarves live within mountain Sky Citadels dotted over the surface, which can create vast cultural divides between dwarf clans. Yet nearly all dwarven peoples share a passion for stonework, metalwork, and family.
 
@@ -37,6 +40,7 @@ Dwarves tend to value honor and closely follow the traditions of their clans and
 - create art with utility
 - guard your community against those who would harm it
 - keep your clan dagger close
+
 **Popular Anathema**
 - leave an activity or promise uncompleted
 - forsake your family

@@ -8,6 +8,7 @@ If you want a character who can be just about anything, you should play a human.
 - Strive to achieve greatness, either in your own right or on behalf of a cause.
 - Seek to understand your purpose in the world.
 - Cherish your relationships with family and friends.
+
 ## Others probably...
 - Respect your flexibility, your adaptability, and—in most cases—your open-mindedness.
 - Distrust your intentions, fearing you seek only power or wealth.
@@ -22,5 +23,6 @@ Human variety also manifests in terms of their governments, attitudes, and socia
 - explore the world
 - strive for greatness
 - devote yourself to a moral outlook
+
 **Popular Anathema**
 - waste what little time you have
