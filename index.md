@@ -2,4 +2,4 @@
 
 This is a test
 
-[Ancestries](./Ancestries)
+[Ancestries](./ancestries)
